@@ -1,0 +1,17 @@
+115.204.25.172	6666	HTTPS		浙江杭州	xicidaili
+180.118.243.93	61234	HTTPS		重庆	xicidaili
+125.121.121.155	6666	HTTPS		广西防城港	xicidaili
+110.73.11.129	8123	HTTPS		山东烟台	xicidaili
+110.73.9.140	8123	HTTPS		广西南宁	xicidaili
+125.118.74.153	6666	HTTPS		广西南宁	xicidaili
+175.148.69.110	1133	HTTPS		北京	xicidaili
+121.31.193.31	8123	HTTPS		云南	xicidaili
+183.151.40.44	1133	HTTPS		广西防城港	xicidaili
+106.110.198.237	808	HTTPS		广西防城港	xicidaili
+58.214.51.25	8070	HTTPS		浙江杭州	xicidaili
+114.225.169.217	53128	HTTPS		广西防城港	xicidaili
+115.46.98.155	8123	HTTPS		云南	xicidaili
+115.221.127.12	8010	HTTPS		云南	xicidaili
+115.46.78.30	8123	HTTPS		广西南宁	xicidaili
+115.223.103.106	8010	HTTPS		广西南宁	xicidaili
+111.72.155.245	53128	HTTPS		广西防城港	xicidaili
